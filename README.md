@@ -145,4 +145,4 @@ MIT License - feel free to use and modify!
 - [Kitty](https://sw.kovidgoyal.net/kitty/) - Terminal emulator
 - [nvim-tmux-navigation](https://github.com/alexghergh/nvim-tmux-navigation) - Seamless navigation
 - [GNU Stow](https://www.gnu.org/software/stow/) - Symlink farm manager
-```
+
